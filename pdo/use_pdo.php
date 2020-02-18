@@ -1,7 +1,5 @@
 <?php
-/**
- * 【注意！】このプログラムを実行する前に、必ずsql/init_reviewdb.sqlを実行しておくこと！
- */
+
 // データベース接続情報
 $dsn = "mysql:host=localhost;dbname=reviewdb";
 $user = "reviewdb_admin";
